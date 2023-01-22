@@ -1,3 +1,3 @@
 module.exports = () => {
-  console.log('server is lsitening');
+  console.log('server is listening');
 };
