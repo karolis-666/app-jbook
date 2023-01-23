@@ -17,3 +17,7 @@
 To run application run:
 
 `npm run start`
+
+CLI command, launch from 'packages/cli/dist':
+
+`node index.js serve`
