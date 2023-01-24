@@ -24,7 +24,7 @@ export const serve = (
     );
   } else {
     const packagePath = require.resolve(
-      '@jbook-online-code-editor/local-client/build/index.html'
+      `@jbook-online-code-editor/local-client/build/index.html`
     );
 
     app.use(express.static(path.dirname(packagePath)));
