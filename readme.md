@@ -31,10 +31,4 @@ Alternativelly, go to path via terminal `packages/cli/dist` and launch command:
 
 ### Publishing
 
-To publish package to NPM:
-
-`lerna publish`
-
-> Note: only repo owner can publish to NPM. If oyu wan't to publish separate package, you need to rename all package.json names and imports related to that name
-
-> Currently there is an error where `lerna publish` assumes that local-client package is private
+Not currently maintained
