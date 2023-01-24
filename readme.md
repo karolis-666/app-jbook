@@ -21,3 +21,7 @@ To run application run:
 CLI command, launch from 'packages/cli/dist':
 
 `node index.js serve`
+
+Publish command
+
+`lerna publish`
