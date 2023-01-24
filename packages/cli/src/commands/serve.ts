@@ -1,6 +1,6 @@
+import { serve } from '@jbook-online-code-editor/local-api';
 import path from 'path';
 import { Command } from 'commander';
-import { serve } from 'local-api';
 
 interface LocalApiError {
   code: string;

@@ -1,6 +1,6 @@
-# App-Jbook
+# Jbook Online Code Editor
 
-⭐ Online code editor ⭐
+⭐ Online code editor created for educational purposes following udemy course ⭐
 
 ## Installation
 
